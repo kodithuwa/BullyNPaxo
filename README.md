@@ -23,3 +23,33 @@ Sequence Diagrams
 Leader Selection
 ![image](https://github.com/user-attachments/assets/da308fd1-3a35-4028-8948-031ff35642e0)
 
+Assign Roles (Leader, Proposer, Acceptor, Learner) to Nodes
+![image](https://github.com/user-attachments/assets/4eee326e-4d47-4b7e-8cfb-db8961ac37d9)
+
+Number processing by Proposer 
+![image](https://github.com/user-attachments/assets/e362d040-33e7-4521-b520-b1418f5151d4)
+
+Acceptor verification process
+
+![image](https://github.com/user-attachments/assets/251b4622-0c76-4984-a4c9-fe10c38303f8)
+
+Learner finalizing process
+![image](https://github.com/user-attachments/assets/01c51362-85a7-43ac-8a83-2d0164a75fc1)
+
+
+**Implementation**
+![image](https://github.com/user-attachments/assets/21068909-53aa-47e3-a77a-9817d2fc5cdc)
+
+Node 1 to Note 5 implement as distributed nodes
+
+![image](https://github.com/user-attachments/assets/2df17382-2a73-4484-86b9-0aef3351662c)
+App.config of each node keeps all endpoints as a service registry
+
+Select a New Leader
+![image](https://github.com/user-attachments/assets/05aafd5b-da24-4d34-83a7-f08f2e6225b3)
+
+Final Result from the Learner
+![image](https://github.com/user-attachments/assets/257a2136-0fc1-42f1-86d0-193a1a9e70b6)
+
+
+
